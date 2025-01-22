@@ -48,6 +48,12 @@ SELECT * FROM students;
 
 ```
 
+## Scripts
+The SQL commands used in this lab are stored in the following file:
+- [scripts/crud-operations.sql](scripts/crud-operations.sql)
+
+
+
 ## Results
 At the end of this lab, you will have:
 
