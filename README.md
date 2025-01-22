@@ -10,6 +10,25 @@ This lab demonstrates the basic steps to:
   
 It is intended for beginners learning MySQL on Linux.
 
+## Labs
+
+1. [Lab 1: Basic Setup](lab1-basic-setup/)
+   - Install MySQL on Ubuntu.
+   - Configure a secure installation.
+   - Create a database and user.
+   - Test the connection with the MySQL server.
+
+2. [Lab 2: CRUD Operations](lab2-crud-operations/)
+   - Perform basic operations: Create, Read, Update, Delete.
+
+3. [Lab 3: Table Relationships](lab3-table-relationships/)
+   - Define relationships between tables (One-to-Many, Many-to-Many).
+
+4. [Lab 4: Backup and Restore](lab4-backup-and-restore/)
+   - Backup and restore MySQL databases.
+
+5. [Lab 5: Optimization](lab5-optimization/)
+   - Optimize MySQL queries and database performance.
 
 ## Steps
 1. **Update the system**:
